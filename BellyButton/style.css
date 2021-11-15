@@ -1,0 +1,14 @@
+
+body {
+  background-color: rgb(188, 183, 202);
+  background-image: url("Beef.jpg");
+}
+h1 {
+  color: red;
+}
+h3 {
+  color: orange;
+}
+h5 {
+  color: green;
+}
